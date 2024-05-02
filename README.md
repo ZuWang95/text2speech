@@ -1,6 +1,6 @@
 # Text to Speech Synthesis #
 
-The code I used to dub my paper videos without requiring human help.
+Dub my paper/animation videos without requiring human help. Original code from Qi and Li Yi Wei.
 
 ## Requirement ##
 
